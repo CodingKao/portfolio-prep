@@ -8,7 +8,7 @@ Welcome to my portfolio! My name is Kao Saelor, and I'm an aspiring software dev
 
 I'm excited about tech because it allows us to connect with people from all over the world, access new resources, and make our lives easier. Technology has revolutionized the way we communicate, learn, and interact with each other. It has opened up a whole new world of possibilities, and I'm excited to explore what is to come.
 
-![Kao](/img/kao%20pic.jpeg)
+![Kao](/img/kao-pic.jpeg)
 
 ### Projects I've Done
 
